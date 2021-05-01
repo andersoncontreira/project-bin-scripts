@@ -1,0 +1,11 @@
+# aws
+AWS_ACCOUNT_ID=000000000
+AWS_REGION=
+AWS_PROFILE=
+
+# project
+PROJECT_NAME=project-name
+
+# docker
+NETWORK_NAME=project-network-name
+DOCKER_PATH=./docker/node/production/Dockerfile
